@@ -26,7 +26,7 @@ function destructivelyAddElementToEndOfArray (array, element) {
 }
 
 function accessElementInArray (array, element) {
-  console.log(array[0])
+  console.log(array)
   return array
 }
 
